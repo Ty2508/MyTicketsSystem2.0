@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Tickets System</string>
+    <string name="submit">Submit</string>
+    <string name="tickets">Tickets</string>
+    <string-array name="Tickets">
+        <item>Ticket1</item>
+        <item>Ticket2</item>
+        <item>Ticket3</item>
+        <item>Ticket4</item>
+    </string-array>
+</resources>
